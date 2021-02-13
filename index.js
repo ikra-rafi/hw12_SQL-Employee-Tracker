@@ -10,7 +10,7 @@ var connection = mysql.createConnection({
   port: 3306,
   // username
   user: "root",
-  // passwrod
+  // password
   password: "P@ssw0rd1234!",
   database: "employee_tracker"
 });
@@ -18,7 +18,7 @@ var connection = mysql.createConnection({
 
 connection.connect((err) => {
   if (err) throw err;
-  // note for later: should I use runSearch(); instead of runSearch(); 
+
   runSearch();
 });
 
