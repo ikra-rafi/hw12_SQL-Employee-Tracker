@@ -10,12 +10,22 @@ By using a command line input application, the user will be able to add departme
 Node.js: Inquirer, console.table, mySQL via npm.
 
 ## Screenshots
-### Dependencies
-### node index.js
-### View Department, Employee, Role
-### Add Department, Employee, Role
-### Update Role
+This images are in the Assets folder in the repo
 
+### node index.js
+![Node](Assets/1node.png)
+### View Department, Employee, Role
+![View](Assets/2viewdpart.png)
+![View](Assets/2viewemployee.png)
+![View](Assets/2viewrole.png)
+
+### Add Department, Employee, Role
+![Add](Assets/3AddDepart.png)
+![Add](Assets/3AddEmployee1.png)
+![Add](Assets/3AddEmployee2.png)
+![Add](Assets/3AddRole.png)
+### Update Role
+![Update](Assets/4UpdateRole.png)
 ## Links
 ### github
 https://github.com/ikra-rafi/hw12_SQL-Employee-Tracker
