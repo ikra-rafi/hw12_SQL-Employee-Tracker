@@ -1,6 +1,6 @@
 var mysql = require("mysql");
 var inquirer = require("inquirer");
-var cTable = require("console.table")
+var cTable = require("console.table");
 
 
 var connection = mysql.createConnection({
@@ -312,4 +312,4 @@ connection.query('SELECT * FROM employee', function (err, result) {
       //})
     })
 })
-}
+};
